@@ -4,4 +4,4 @@
 
 效果如下：
 
-![image1](D:\Typora文档\typora-pic\公益list.jpg)
+![image1](result.jpg)
